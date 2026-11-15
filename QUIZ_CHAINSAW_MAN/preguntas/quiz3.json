@@ -1,0 +1,335 @@
+{
+  "titulo": "Chainsaw Man - Nivel difícil",
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es el verdadero nombre del Demonio Control?",
+      "respuestas": [
+        "Makima",
+        "Nayuta",
+        "Power",
+        "Reze"
+      ],
+      "correcta": 0,
+      "pista": "Es el nombre que utiliza durante la primera parte."
+    },
+    {
+      "pregunta": "¿Qué demonio representa Makima?",
+      "respuestas": [
+        "Demonio Guerra",
+        "Demonio Control",
+        "Demonio Muerte",
+        "Demonio Hambre"
+      ],
+      "correcta": 1,
+      "pista": "Su poder está relacionado con dominar a otros."
+    },
+    {
+      "pregunta": "¿Cómo se llama la protagonista de la segunda parte del manga?",
+      "respuestas": [
+        "Reze",
+        "Asa Mitaka",
+        "Nayuta",
+        "Fumiko"
+      ],
+      "correcta": 1,
+      "pista": "Es una estudiante."
+    },
+    {
+      "pregunta": "¿Qué demonio comparte cuerpo con Asa Mitaka?",
+      "respuestas": [
+        "Demonio Control",
+        "Demonio Guerra",
+        "Demonio Hambre",
+        "Demonio Muerte"
+      ],
+      "correcta": 1,
+      "pista": "Tiene una relación con los conflictos bélicos."
+    },
+    {
+      "pregunta": "¿Cómo se llama el Demonio Guerra?",
+      "respuestas": [
+        "Yoru",
+        "Fami",
+        "Nayuta",
+        "Makima"
+      ],
+      "correcta": 0,
+      "pista": "Es el nombre que utiliza junto a Asa."
+    },
+    {
+      "pregunta": "¿Qué poder tiene el Demonio Guerra?",
+      "respuestas": [
+        "Crear armas a partir de cosas que considera suyas",
+        "Controlar el tiempo",
+        "Leer la mente",
+        "Curar cualquier enfermedad"
+      ],
+      "correcta": 0,
+      "pista": "Puede transformar objetos en armas."
+    },
+    {
+      "pregunta": "¿Qué relación tiene Nayuta con Makima?",
+      "respuestas": [
+        "Es su hija biológica",
+        "Es la reencarnación del Demonio Control",
+        "Es su hermana",
+        "Es una humana normal"
+      ],
+      "correcta": 1,
+      "pista": "Comparte la misma naturaleza demoníaca."
+    },
+    {
+      "pregunta": "¿Quién es Fami?",
+      "respuestas": [
+        "Demonio Hambre",
+        "Demonio Futuro",
+        "Demonio Fantasma",
+        "Demonio Sangre"
+      ],
+      "correcta": 0,
+      "pista": "Su nombre está relacionado con la comida."
+    },
+    {
+      "pregunta": "¿Qué representa el Demonio Hambre?",
+      "respuestas": [
+        "El miedo a quedarse sin comida",
+        "El miedo a la oscuridad",
+        "El miedo a las alturas",
+        "El miedo a los insectos"
+      ],
+      "correcta": 0,
+      "pista": "Su concepto está relacionado con la falta de alimentos."
+    },
+    {
+      "pregunta": "¿Qué relación tiene Yoshida con la historia?",
+      "respuestas": [
+        "Es un cazador de demonios",
+        "Es un profesor de Asa",
+        "Es el padre de Denji",
+        "Es un demonio primordial"
+      ],
+      "correcta": 0,
+      "pista": "Aparece tanto en la primera como en la segunda parte."
+    },
+    {
+      "pregunta": "¿Qué demonio tiene un contrato relacionado con la justicia?",
+      "respuestas": [
+        "Demonio Justicia",
+        "Demonio Zorro",
+        "Demonio Futuro",
+        "Demonio Fantasma"
+      ],
+      "correcta": 0,
+      "pista": "Aparece relacionado con estudiantes."
+    },
+    {
+      "pregunta": "¿Cómo se llama el chico que conoce Asa y que resulta ser Denji?",
+      "respuestas": [
+        "Yoshida",
+        "Yuko",
+        "Haruka Iseumi",
+        "Denji"
+      ],
+      "correcta": 3,
+      "pista": "Es el protagonista de la primera parte."
+    },
+    {
+      "pregunta": "¿Qué arma crea Asa utilizando su uniforme?",
+      "respuestas": [
+        "Una espada",
+        "Un arco",
+        "Una pistola",
+        "Un escudo"
+      ],
+      "correcta": 0,
+      "pista": "Es un arma de combate cuerpo a cuerpo."
+    },
+    {
+      "pregunta": "¿Qué influye en la capacidad de Asa para crear armas poderosas?",
+      "respuestas": [
+        "Sentir culpa o apego por aquello que convierte",
+        "Dormir durante días",
+        "Comer una fruta especial",
+        "Hacer un contrato con Makima"
+      ],
+      "correcta": 0,
+      "pista": "Sus sentimientos influyen en el poder de sus armas."
+    },
+    {
+      "pregunta": "¿Qué demonio es conocido por provocar un miedo primitivo?",
+      "respuestas": [
+        "Demonio Oscuridad",
+        "Demonio Zorro",
+        "Demonio Murciélago",
+        "Demonio Sangre"
+      ],
+      "correcta": 0,
+      "pista": "Representa uno de los miedos más antiguos."
+    },
+    {
+      "pregunta": "¿A qué categoría pertenece el Demonio Oscuridad?",
+      "respuestas": [
+        "Demonio poseído",
+        "Demonio primordial",
+        "Demonio humano",
+        "Demonio artificial"
+      ],
+      "correcta": 1,
+      "pista": "Representa un miedo primitivo."
+    },
+    {
+      "pregunta": "¿Qué representa el Demonio Caída?",
+      "respuestas": [
+        "El miedo a caer",
+        "El miedo al agua",
+        "El miedo a los animales",
+        "El miedo a la música"
+      ],
+      "correcta": 0,
+      "pista": "Su nombre hace referencia a perder el equilibrio."
+    },
+    {
+      "pregunta": "¿Qué relación tiene Denji con el Demonio Motosierra?",
+      "respuestas": [
+        "Son enemigos",
+        "Pochita forma parte de su corazón",
+        "Son hermanos",
+        "Son compañeros de clase"
+      ],
+      "correcta": 1,
+      "pista": "Su unión permite la transformación."
+    },
+    {
+      "pregunta": "¿Qué capacidad especial tiene el Chainsaw Man original?",
+      "respuestas": [
+        "Borrar demonios y sus conceptos al devorarlos",
+        "Controlar todos los elementos",
+        "Viajar al pasado",
+        "Crear universos"
+      ],
+      "correcta": 0,
+      "pista": "Su habilidad afecta incluso a la historia."
+    },
+    {
+      "pregunta": "¿Qué demonio representa la muerte?",
+      "respuestas": [
+        "Demonio Guerra",
+        "Demonio Hambre",
+        "Demonio Muerte",
+        "Demonio Control"
+      ],
+      "correcta": 2,
+      "pista": "Es uno de los cuatro jinetes."
+    },
+    {
+      "pregunta": "¿Cuáles son los cuatro jinetes mencionados en Chainsaw Man?",
+      "respuestas": [
+        "Control, Guerra, Hambre y Muerte",
+        "Fuego, Agua, Tierra y Aire",
+        "Sangre, Oscuridad, Luz y Miedo",
+        "Pistola, Espada, Bomba y Zorro"
+      ],
+      "correcta": 0,
+      "pista": "Son cuatro conceptos muy importantes en el manga."
+    },
+    {
+      "pregunta": "¿Qué relación tiene Asa con Yoru?",
+      "respuestas": [
+        "Son hermanas",
+        "Comparten el mismo cuerpo",
+        "Son madre e hija",
+        "Son enemigas sin conexión física"
+      ],
+      "correcta": 1,
+      "pista": "Dos personalidades comparten un cuerpo."
+    },
+    {
+      "pregunta": "¿Qué es el Demonio Pistola?",
+      "respuestas": [
+        "Un demonio relacionado con el miedo a las armas de fuego",
+        "Un cazador humano",
+        "Un arma creada por Aki",
+        "Un demonio primordial"
+      ],
+      "correcta": 0,
+      "pista": "Su aparición provoca un gran impacto en el mundo."
+    },
+    {
+      "pregunta": "¿Qué personaje es conocido como el Hombre Katana?",
+      "respuestas": [
+        "Samurai Sword",
+        "Kishibe",
+        "Yoshida",
+        "Beam"
+      ],
+      "correcta": 0,
+      "pista": "Es un enemigo de Denji."
+    },
+    {
+      "pregunta": "¿Qué ocurre con los demonios cuando mueren en la Tierra?",
+      "respuestas": [
+        "Desaparecen para siempre",
+        "Reaparecen en el Infierno",
+        "Se convierten en humanos",
+        "Se transforman en animales"
+      ],
+      "correcta": 1,
+      "pista": "Existe un ciclo entre dos mundos."
+    },
+    {
+      "pregunta": "¿Qué ocurre cuando un demonio muere en el Infierno?",
+      "respuestas": [
+        "Puede volver a nacer en la Tierra",
+        "Desaparece del universo",
+        "Se convierte en humano",
+        "Se transforma en un cazador"
+      ],
+      "correcta": 0,
+      "pista": "Es la otra parte del ciclo de reencarnación."
+    },
+    {
+      "pregunta": "¿Quién es el padre de Asa Mitaka?",
+      "respuestas": [
+        "Denji",
+        "No se presenta como personaje en la historia",
+        "Kishibe",
+        "Yoshida"
+      ],
+      "correcta": 1,
+      "pista": "La historia no desarrolla esa identidad."
+    },
+    {
+      "pregunta": "¿Qué relación tiene el Demonio Motosierra con los cuatro jinetes?",
+      "respuestas": [
+        "Son aliados inseparables",
+        "Ha tenido enfrentamientos con ellos",
+        "Es su padre",
+        "Es uno de sus subordinados"
+      ],
+      "correcta": 1,
+      "pista": "Su pasado está relacionado con grandes enfrentamientos."
+    },
+    {
+      "pregunta": "¿Cuál es el objetivo principal del Demonio Guerra respecto a Chainsaw Man?",
+      "respuestas": [
+        "Convertirlo en su mascota",
+        "Derrotarlo y recuperar su poder",
+        "Trabajar con él",
+        "Eliminar a todos los humanos"
+      ],
+      "correcta": 1,
+      "pista": "Yoru tiene una cuenta pendiente con él."
+    },
+    {
+      "pregunta": "¿Qué personaje intenta proteger a Denji durante la segunda parte?",
+      "respuestas": [
+        "Nayuta",
+        "Katana Man",
+        "Himeno",
+        "Kurose"
+      ],
+      "correcta": 0,
+      "pista": "Es la reencarnación del Demonio Control."
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "titulo": "Chainsaw Man - Nivel medio",
+  "preguntas": [
+    {
+      "pregunta": "¿Cómo se llama el demonio con el que Aki tiene un contrato?",
+      "respuestas": [
+        "Demonio Zorro",
+        "Demonio Murciélago",
+        "Demonio Sangre",
+        "Demonio Tiburón"
+      ],
+      "correcta": 0,
+      "pista": "Tiene aspecto de animal y puede ser invocado."
+    },
+    {
+      "pregunta": "¿Qué demonio aparece en el hotel donde queda atrapada la división?",
+      "respuestas": [
+        "Demonio Eternidad",
+        "Demonio Pistola",
+        "Demonio Oscuridad",
+        "Demonio Control"
+      ],
+      "correcta": 0,
+      "pista": "Su poder está relacionado con el tiempo y los espacios cerrados."
+    },
+    {
+      "pregunta": "¿Qué quiere conseguir el Demonio Eternidad?",
+      "respuestas": [
+        "El corazón de Chainsaw Man",
+        "La espada de Aki",
+        "El poder de Makima",
+        "La sangre de Power"
+      ],
+      "correcta": 0,
+      "pista": "Está obsesionado con el corazón de Denji."
+    },
+    {
+      "pregunta": "¿Cómo se llama la compañera de Aki que utiliza el Demonio Fantasma?",
+      "respuestas": [
+        "Kobeni",
+        "Himeno",
+        "Makima",
+        "Reze"
+      ],
+      "correcta": 1,
+      "pista": "Es una cazadora que lleva un parche."
+    },
+    {
+      "pregunta": "¿Qué demonio utiliza Himeno?",
+      "respuestas": [
+        "Demonio Fantasma",
+        "Demonio Zorro",
+        "Demonio Futuro",
+        "Demonio Sangre"
+      ],
+      "correcta": 0,
+      "pista": "Puede atacar utilizando una parte invisible."
+    },
+    {
+      "pregunta": "¿Qué le dice el Demonio Futuro a Aki sobre su muerte?",
+      "respuestas": [
+        "Será inmediata",
+        "Tendrá un futuro tranquilo",
+        "Morirá de una forma terrible",
+        "Se convertirá en demonio"
+      ],
+      "correcta": 2,
+      "pista": "Su destino no es nada agradable."
+    },
+    {
+      "pregunta": "¿Qué parte del cuerpo ofrece Aki al Demonio Fantasma?",
+      "respuestas": [
+        "Un ojo",
+        "Una pierna",
+        "Un brazo",
+        "Un riñón"
+      ],
+      "correcta": 0,
+      "pista": "Es una parte de la cara."
+    },
+    {
+      "pregunta": "¿Cómo se llama el hombre que utiliza una katana y se enfrenta a Denji?",
+      "respuestas": [
+        "Katana Man",
+        "Kishibe",
+        "Yoshida",
+        "Beam"
+      ],
+      "correcta": 0,
+      "pista": "Su nombre hace referencia a su arma."
+    },
+    {
+      "pregunta": "¿Qué relación tiene Katana Man con el protagonista?",
+      "respuestas": [
+        "Es su hermano",
+        "Es un enemigo",
+        "Es su profesor",
+        "Es su jefe"
+      ],
+      "correcta": 1,
+      "pista": "Busca venganza contra Denji."
+    },
+    {
+      "pregunta": "¿Quién entrena a Denji y Power?",
+      "respuestas": [
+        "Aki",
+        "Kishibe",
+        "Yoshida",
+        "Kurose"
+      ],
+      "correcta": 1,
+      "pista": "Es uno de los cazadores más experimentados."
+    },
+    {
+      "pregunta": "¿Qué caracteriza a Kishibe?",
+      "respuestas": [
+        "Es muy inexperto",
+        "Es un cazador veterano",
+        "Es un demonio",
+        "Es un estudiante"
+      ],
+      "correcta": 1,
+      "pista": "Tiene mucha experiencia cazando demonios."
+    },
+    {
+      "pregunta": "¿Qué quiere Makima del corazón de Chainsaw Man?",
+      "respuestas": [
+        "Destruirlo",
+        "Controlarlo",
+        "Venderlo",
+        "Esconderlo"
+      ],
+      "correcta": 1,
+      "pista": "Sus intenciones son mucho más complejas de lo que parecen."
+    },
+    {
+      "pregunta": "¿Cómo se llama la chica que conoce Denji y que trabaja en una cafetería?",
+      "respuestas": [
+        "Power",
+        "Reze",
+        "Himeno",
+        "Kobeni"
+      ],
+      "correcta": 1,
+      "pista": "Tiene una historia relacionada con una bomba."
+    },
+    {
+      "pregunta": "¿Qué demonio está relacionado con Reze?",
+      "respuestas": [
+        "Demonio Bomba",
+        "Demonio Tiburón",
+        "Demonio Ángel",
+        "Demonio Pistola"
+      ],
+      "correcta": 0,
+      "pista": "Su transformación está relacionada con explosiones."
+    },
+    {
+      "pregunta": "¿Cómo se llama el demonio que tiene aspecto de tiburón y admira a Chainsaw Man?",
+      "respuestas": [
+        "Beam",
+        "Angel",
+        "Violence",
+        "Galgali"
+      ],
+      "correcta": 0,
+      "pista": "Puede desplazarse por superficies como si nadara."
+    },
+    {
+      "pregunta": "¿Qué poder tiene el Demonio Ángel?",
+      "respuestas": [
+        "Controlar el fuego",
+        "Crear armas con esperanza",
+        "Absorber esperanza de vida mediante el contacto",
+        "Controlar el agua"
+      ],
+      "correcta": 2,
+      "pista": "El contacto con él tiene un coste."
+    },
+    {
+      "pregunta": "¿Qué relación tiene Power con el Demonio de la Sangre?",
+      "respuestas": [
+        "Es su hermana",
+        "Es su forma de poseída",
+        "Es su enemiga",
+        "No tiene relación"
+      ],
+      "correcta": 1,
+      "pista": "Power es una poseída."
+    },
+    {
+      "pregunta": "¿Qué busca Aki durante gran parte de la historia?",
+      "respuestas": [
+        "Vengarse del Demonio Pistola",
+        "Encontrar un tesoro",
+        "Ser presidente",
+        "Encontrar a su padre"
+      ],
+      "correcta": 0,
+      "pista": "Su pasado está marcado por una tragedia."
+    },
+    {
+      "pregunta": "¿Qué demonio está relacionado con el miedo a las armas de fuego?",
+      "respuestas": [
+        "Demonio Pistola",
+        "Demonio Zorro",
+        "Demonio Futuro",
+        "Demonio Fantasma"
+      ],
+      "correcta": 0,
+      "pista": "Es uno de los demonios más temidos."
+    },
+    {
+      "pregunta": "¿Qué trabajo tenía Denji antes de entrar en Seguridad Pública?",
+      "respuestas": [
+        "Camarero",
+        "Cazador de demonios por deudas",
+        "Profesor",
+        "Mecánico"
+      ],
+      "correcta": 1,
+      "pista": "Trabajaba para pagar una deuda."
+    },
+    {
+      "pregunta": "¿Qué característica tiene el Demonio Futuro?",
+      "respuestas": [
+        "Puede ver el futuro",
+        "Puede controlar el clima",
+        "Puede viajar al pasado",
+        "Puede borrar recuerdos"
+      ],
+      "correcta": 0,
+      "pista": "Conoce acontecimientos que todavía no han sucedido."
+    },
+    {
+      "pregunta": "¿Quién es el Demonio de la Violencia?",
+      "respuestas": [
+        "Galgali",
+        "Beam",
+        "Angel",
+        "Prinzipi"
+      ],
+      "correcta": 0,
+      "pista": "Su nombre humano es conocido por su máscara."
+    },
+    {
+      "pregunta": "¿Qué división reúne a Denji, Aki y Power?",
+      "respuestas": [
+        "División Especial 4",
+        "División 1",
+        "División 8",
+        "División 10"
+      ],
+      "correcta": 0,
+      "pista": "Es una unidad especial de Seguridad Pública."
+    },
+    {
+      "pregunta": "¿Qué relación tiene Makima con Denji al principio?",
+      "respuestas": [
+        "Es su hermana",
+        "Es su superiora",
+        "Es su madre",
+        "Es su profesora"
+      ],
+      "correcta": 1,
+      "pista": "Es quien le ofrece trabajar para Seguridad Pública."
+    },
+    {
+      "pregunta": "¿Qué le ocurre a Pochita cuando Denji está a punto de morir?",
+      "respuestas": [
+        "Se marcha",
+        "Se convierte en su corazón",
+        "Desaparece para siempre",
+        "Se transforma en Aki"
+      ],
+      "correcta": 1,
+      "pista": "Ambos realizan un pacto."
+    },
+    {
+      "pregunta": "¿Qué poder tiene el Demonio Fantasma?",
+      "respuestas": [
+        "Crear ilusiones",
+        "Manifestar partes invisibles",
+        "Controlar el hielo",
+        "Viajar entre dimensiones"
+      ],
+      "correcta": 1,
+      "pista": "Puede utilizar sus extremidades sin ser visto."
+    },
+    {
+      "pregunta": "¿Qué hace Denji para derrotar al Demonio Eternidad?",
+      "respuestas": [
+        "Negocia con él",
+        "Lo combate durante un largo periodo",
+        "Pide ayuda a Makima",
+        "Utiliza una espada"
+      ],
+      "correcta": 1,
+      "pista": "Su estrategia es muy poco convencional."
+    },
+    {
+      "pregunta": "¿Qué caracteriza a Kobeni durante los enfrentamientos?",
+      "respuestas": [
+        "Es muy tranquila",
+        "Suele mostrar mucho miedo",
+        "Nunca utiliza armas",
+        "Es una demonio"
+      ],
+      "correcta": 1,
+      "pista": "Los combates le generan mucho estrés."
+    },
+    {
+      "pregunta": "¿Qué organización internacional aparece relacionada con los intentos de conseguir el corazón de Denji?",
+      "respuestas": [
+        "Cazadores extranjeros",
+        "La policía escolar",
+        "Una empresa de videojuegos",
+        "Un grupo de científicos espaciales"
+      ],
+      "correcta": 0,
+      "pista": "Hay personas de distintos países interesadas en Chainsaw Man."
+    },
+    {
+      "pregunta": "¿Qué significa el nombre Chainsaw Man?",
+      "respuestas": [
+        "Hombre espada",
+        "Hombre motosierra",
+        "Hombre fuego",
+        "Hombre demonio"
+      ],
+      "correcta": 1,
+      "pista": "Es la traducción inglesa de su nombre."
+    }
+  ]
+}

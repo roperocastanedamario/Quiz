@@ -1,0 +1,142 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #171717, #4a1010);
+    color: white;
+    min-height: 100vh;
+    text-align: center;
+}
+
+header {
+    padding: 30px 15px;
+}
+
+header h1 {
+    font-size: 38px;
+    color: #ef3434;
+    letter-spacing: 2px;
+}
+
+header p {
+    margin-top: 10px;
+}
+
+main {
+    width: 90%;
+    max-width: 680px;
+    margin: 20px auto;
+}
+
+.pantalla {
+    background: #fff;
+    color: #222;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, .35);
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+button {
+    display: block;
+    width: 100%;
+    padding: 14px;
+    margin: 12px 0;
+    border: none;
+    border-radius: 8px;
+    background: #c82020;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background .2s;
+}
+
+button:hover:not(:disabled) {
+    background: #941515;
+}
+
+button:disabled {
+    cursor: not-allowed;
+    opacity: .8;
+}
+
+.oculto {
+    display: none;
+}
+
+#pregunta {
+    font-size: 21px;
+    font-weight: bold;
+    margin: 25px 0;
+}
+
+.respuesta {
+    background: #e9ecef;
+    color: #222;
+    border: 2px solid transparent;
+}
+
+.respuesta.seleccionada {
+    border-color: #1674d1;
+    background: #dcecff;
+}
+
+.respuesta.correcta {
+    background: #28a745;
+    color: white;
+}
+
+.respuesta.incorrecta {
+    background: #dc3545;
+    color: white;
+}
+
+#pista {
+    margin: 15px;
+    color: #555;
+    min-height: 20px;
+}
+
+#puntuacion, #progreso {
+    margin: 10px;
+    font-weight: bold;
+}
+
+input {
+    width: 100%;
+    padding: 12px;
+    margin: 15px 0;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 16px;
+}
+
+#ranking {
+    text-align: left;
+    margin-top: 15px;
+}
+
+#ranking p {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+}
+
+img {
+    max-width: 100%;
+    max-height: 200px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+footer {
+    padding: 20px;
+    color: #ddd;
+    font-size: 13px;
+}

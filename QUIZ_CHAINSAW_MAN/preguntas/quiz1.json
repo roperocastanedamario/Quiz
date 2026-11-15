@@ -1,0 +1,335 @@
+{
+  "titulo": "Chainsaw Man - Nivel fácil",
+  "preguntas": [
+    {
+      "pregunta": "¿Cómo se llama el protagonista?",
+      "respuestas": [
+        "Aki Hayakawa",
+        "Denji",
+        "Kishibe",
+        "Yoshida"
+      ],
+      "correcta": 1,
+      "pista": "Es el chico que se transforma en Chainsaw Man."
+    },
+    {
+      "pregunta": "¿Cómo se llama el demonio motosierra?",
+      "respuestas": [
+        "Pochita",
+        "Power",
+        "Beam",
+        "Angel"
+      ],
+      "correcta": 0,
+      "pista": "Es el compañero de Denji."
+    },
+    {
+      "pregunta": "¿Qué es Makima?",
+      "respuestas": [
+        "Una estudiante",
+        "Una cazadora privada",
+        "Una agente de Seguridad Pública",
+        "Una demonio zorro"
+      ],
+      "correcta": 2,
+      "pista": "Trabaja en una organización del gobierno."
+    },
+    {
+      "pregunta": "¿Qué tipo de demonio es Power?",
+      "respuestas": [
+        "Demonio de la Sangre",
+        "Demonio del Fuego",
+        "Demonio del Futuro",
+        "Demonio del Agua"
+      ],
+      "correcta": 0,
+      "pista": "Su poder está relacionado con la sangre."
+    },
+    {
+      "pregunta": "¿Cómo se llama el compañero de Denji que utiliza el Demonio Zorro?",
+      "respuestas": [
+        "Kishibe",
+        "Aki Hayakawa",
+        "Yoshida",
+        "Katana Man"
+      ],
+      "correcta": 1,
+      "pista": "Tiene el pelo negro y suele llevar corbata."
+    },
+    {
+      "pregunta": "¿Qué quiere conseguir Denji al principio de la historia?",
+      "respuestas": [
+        "Ser presidente",
+        "Una vida normal y sencilla",
+        "Convertirse en profesor",
+        "Viajar al extranjero"
+      ],
+      "correcta": 1,
+      "pista": "Tiene sueños bastante simples."
+    },
+    {
+      "pregunta": "¿Qué comida le gusta especialmente a Denji?",
+      "respuestas": [
+        "Pan con mermelada",
+        "Sushi",
+        "Pizza",
+        "Arroz con curry"
+      ],
+      "correcta": 0,
+      "pista": "Es una comida muy sencilla."
+    },
+    {
+      "pregunta": "¿Qué organización contrata a Denji?",
+      "respuestas": [
+        "Policía militar",
+        "Seguridad Pública",
+        "Ejército",
+        "Escuela de cazadores"
+      ],
+      "correcta": 1,
+      "pista": "Trabaja cazando demonios."
+    },
+    {
+      "pregunta": "¿Cómo se transforma Denji?",
+      "respuestas": [
+        "Muerde su mano",
+        "Tira de una cuerda en su pecho",
+        "Grita su nombre",
+        "Cierra los ojos"
+      ],
+      "correcta": 1,
+      "pista": "Tiene un mecanismo en el pecho."
+    },
+    {
+      "pregunta": "¿Qué animal es Meowy?",
+      "respuestas": [
+        "Un perro",
+        "Un gato",
+        "Un cuervo",
+        "Un conejo"
+      ],
+      "correcta": 1,
+      "pista": "Es la mascota de Power."
+    },
+    {
+      "pregunta": "¿Quién dirige la división especial de Denji?",
+      "respuestas": [
+        "Makima",
+        "Kobeni",
+        "Himeno",
+        "Power"
+      ],
+      "correcta": 0,
+      "pista": "Es una mujer muy importante."
+    },
+    {
+      "pregunta": "¿Qué color de pelo tiene Denji?",
+      "respuestas": [
+        "Negro",
+        "Rubio",
+        "Azul",
+        "Rojo"
+      ],
+      "correcta": 1,
+      "pista": "Es un color claro."
+    },
+    {
+      "pregunta": "¿Qué utiliza Aki para realizar contratos?",
+      "respuestas": [
+        "Una espada normal",
+        "Poderes mágicos",
+        "Contratos con demonios",
+        "Un arma láser"
+      ],
+      "correcta": 2,
+      "pista": "Los cazadores pueden negociar con demonios."
+    },
+    {
+      "pregunta": "¿Quién es Himeno?",
+      "respuestas": [
+        "Una cazadora de demonios",
+        "La hermana de Denji",
+        "Una profesora",
+        "Una demonio"
+      ],
+      "correcta": 0,
+      "pista": "Es compañera de Aki."
+    },
+    {
+      "pregunta": "¿Qué parte del cuerpo de Denji se convierte en motosierra?",
+      "respuestas": [
+        "Solo las piernas",
+        "La cabeza y los brazos",
+        "La espalda",
+        "Los pies"
+      ],
+      "correcta": 1,
+      "pista": "Su transformación es muy característica."
+    },
+    {
+      "pregunta": "¿Quién es Kobeni?",
+      "respuestas": [
+        "Una cazadora de demonios",
+        "Una cantante",
+        "Una profesora",
+        "Una periodista"
+      ],
+      "correcta": 0,
+      "pista": "Trabaja en Seguridad Pública."
+    },
+    {
+      "pregunta": "¿Qué animal acompaña a Denji al principio?",
+      "respuestas": [
+        "Un gato",
+        "Un demonio con aspecto de perro",
+        "Un cuervo",
+        "Un zorro"
+      ],
+      "correcta": 1,
+      "pista": "Tiene una motosierra en la cabeza."
+    },
+    {
+      "pregunta": "¿Cuál es el apellido de Denji?",
+      "respuestas": [
+        "Hayakawa",
+        "No se conoce",
+        "Higashiyama",
+        "Kurose"
+      ],
+      "correcta": 1,
+      "pista": "La historia normalmente lo llama por su nombre."
+    },
+    {
+      "pregunta": "¿Qué quiere comer Denji con Makima?",
+      "respuestas": [
+        "Pan",
+        "Sushi",
+        "Hamburguesas",
+        "Ramen"
+      ],
+      "correcta": 1,
+      "pista": "Es una comida japonesa."
+    },
+    {
+      "pregunta": "¿Qué tipo de criatura es Pochita?",
+      "respuestas": [
+        "Un humano",
+        "Un demonio",
+        "Un ángel",
+        "Un gato"
+      ],
+      "correcta": 1,
+      "pista": "Es un demonio con aspecto de perro."
+    },
+    {
+      "pregunta": "¿Qué organización combate a los demonios?",
+      "respuestas": [
+        "Seguridad Pública",
+        "La policía escolar",
+        "Los cazadores espaciales",
+        "La academia militar"
+      ],
+      "correcta": 0,
+      "pista": "Es una organización oficial."
+    },
+    {
+      "pregunta": "¿Qué relación tiene Power con Denji?",
+      "respuestas": [
+        "Son hermanos",
+        "Son compañeros de trabajo",
+        "Son primos",
+        "Son profesores"
+      ],
+      "correcta": 1,
+      "pista": "Los dos trabajan juntos."
+    },
+    {
+      "pregunta": "¿Cómo se llama el demonio relacionado con los murciélagos?",
+      "respuestas": [
+        "Demonio Murciélago",
+        "Demonio Zorro",
+        "Demonio Fantasma",
+        "Demonio Tiburón"
+      ],
+      "correcta": 0,
+      "pista": "Tiene alas y aspecto de murciélago."
+    },
+    {
+      "pregunta": "¿Qué instrumento utiliza Aki para llamar al Demonio Zorro?",
+      "respuestas": [
+        "Una guitarra",
+        "Un teléfono",
+        "Una campana",
+        "Un silbato"
+      ],
+      "correcta": 1,
+      "pista": "Lo utiliza para realizar su invocación."
+    },
+    {
+      "pregunta": "¿Qué busca recuperar Power en una parte de la historia?",
+      "respuestas": [
+        "Su espada",
+        "A Meowy",
+        "Su casa",
+        "Su trabajo"
+      ],
+      "correcta": 1,
+      "pista": "Es su gato."
+    },
+    {
+      "pregunta": "¿Quién es el mejor amigo demonio de Denji?",
+      "respuestas": [
+        "Pochita",
+        "Demonio Zorro",
+        "Demonio Futuro",
+        "Demonio Fantasma"
+      ],
+      "correcta": 0,
+      "pista": "Está con él desde el principio."
+    },
+    {
+      "pregunta": "¿Dónde trabaja Denji?",
+      "respuestas": [
+        "En una cafetería",
+        "En Seguridad Pública",
+        "En un hospital",
+        "En una escuela"
+      ],
+      "correcta": 1,
+      "pista": "Su trabajo consiste en cazar demonios."
+    },
+    {
+      "pregunta": "¿Qué quiere tener Denji en su vida?",
+      "respuestas": [
+        "Una vida llena de lujos",
+        "Una vida tranquila",
+        "Ser rey",
+        "Ser presidente"
+      ],
+      "correcta": 1,
+      "pista": "Sueña con cosas cotidianas."
+    },
+    {
+      "pregunta": "¿Qué relación tiene Aki con Himeno?",
+      "respuestas": [
+        "Son compañeros de trabajo",
+        "Son hermanos",
+        "Son padre e hija",
+        "Son enemigos desde niños"
+      ],
+      "correcta": 0,
+      "pista": "Pertenecen a la misma división."
+    },
+    {
+      "pregunta": "¿Qué representa la motosierra de Denji?",
+      "respuestas": [
+        "Su contrato con Pochita",
+        "Un regalo de Makima",
+        "Un arma tecnológica",
+        "Una espada antigua"
+      ],
+      "correcta": 0,
+      "pista": "Está relacionada con su corazón."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chainsaw Man Quiz</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+    <header>
+        <h1>CHAINSAW MAN QUIZ</h1>
+        <p>¡Demuestra cuánto sabes del universo de Chainsaw Man!</p>
+    </header>
+
+    <main>
+        <section id="menu" class="pantalla">
+            <h2>Selecciona un cuestionario</h2>
+            <button onclick="iniciarQuiz('quiz1')">Nivel fácil</button>
+            <button onclick="iniciarQuiz('quiz2')">Nivel medio</button>
+            <button onclick="iniciarQuiz('quiz3')">Nivel difícil (spoilers del manga)</button>
+
+            <h2>Ranking</h2>
+            <div id="ranking"></div>
+        </section>
+
+        <section id="juego" class="pantalla oculto">
+            <h2 id="tituloQuiz"></h2>
+            <p id="progreso"></p>
+            <p id="puntuacion">Puntuación: 0</p>
+            <div id="pregunta"></div>
+            <div id="respuestas"></div>
+            <button id="pistaBtn" onclick="mostrarPista()">Ver pista</button>
+            <p id="pista"></p>
+            <button id="confirmarBtn" onclick="confirmarRespuesta()">Confirmar respuesta</button>
+        </section>
+
+        <section id="resultado" class="pantalla oculto">
+            <h2>¡Quiz terminado!</h2>
+            <h3 id="nota"></h3>
+            <input type="text" id="nombre" placeholder="Introduce tu nombre" maxlength="30">
+            <button onclick="guardarRanking()">Guardar puntuación</button>
+            <button onclick="volverMenu()">Volver al menú</button>
+        </section>
+    </main>
+
+    <footer>Proyecto educativo · Quiz de Chainsaw Man</footer>
+    <script src="script.js"></script>
+</body>
+</html>
